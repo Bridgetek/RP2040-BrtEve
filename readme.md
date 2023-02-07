@@ -1,4 +1,4 @@
-# RP2040-BrtEve
+# RP2040-BrtEve (Arduino) 
 
 This is a library to drive IDM2040-7A with Arduino-IDE.
 
