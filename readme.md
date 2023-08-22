@@ -8,17 +8,16 @@ For more information about IDM2040-7A please visit us at https://brtchip.com/ic-
 
 # To run this library and EVE examples with Arduino IDE
 
-1. Goto Arduino IDE download folder, clone the Arduino-Pico repo:
-
-    mkdir -p ~/Arduino/hardware/pico
-    git clone https://github.com/earlephilhower/arduino-pico.git ~/Arduino/hardware/pico/rp2040
-    cd ~/Arduino/hardware/pico/rp2040
-    git submodule add --force https://github.com/Bridgetek/RP2040-BrtEve libraries/RP2040-BrtEve
-    git submodule update --init
-    cd pico-sdk
-    git submodule update --init
-    cd ../tools
-    python3 ./get.py # or: py -3 ./get.py
+1. Goto Arduino IDE download folder, clone the Arduino-Pico repo and follow the steps below:
+    * mkdir -p ~/Arduino/hardware/pico   
+    * `git clone https://github.com/earlephilhower/arduino-pico.git ~/Arduino/hardware/pico/rp2040`   
+    * cd ~/Arduino/hardware/pico/rp2040        
+    * `git submodule add --force https://github.com/Bridgetek/RP2040-BrtEve  libraries/RP2040-BrtEve`  
+    * `git submodule update --init`   
+    * cd pico-sdk   
+    * `git submodule update --init`   
+    * cd ../tools   
+    * python3 ./get.py # or: py -3 ./get.py  
     
 2. Open Arduino IDE, select IDM2040-7A board
    
@@ -28,7 +27,5 @@ For more information about IDM2040-7A please visit us at https://brtchip.com/ic-
 
    ![image](https://user-images.githubusercontent.com/48436368/209924823-cc57825d-e93e-4412-b88f-f21393bb25dd.png)
 
-    
-    
     
     
