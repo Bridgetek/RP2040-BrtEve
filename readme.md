@@ -28,11 +28,19 @@ For more information about IDM2040-7A please visit us at [here](https://brtchip.
 ![image](https://github.com/Bridgetek/RP2040-BrtEve/assets/13127756/32f7a6c0-1e3c-43a4-90d0-d87bbbfce81b)
 
 
-## Clone this repo into the Arduino libraries folder 
+## Install RP2040-BrtEve library from Arduino library.
 
-![image](https://github.com/Bridgetek/RP2040-BrtEve/assets/13127756/06bd5a0c-6855-4c18-80e9-9aa6e8439342)
+### Find the RP2040-BrtEve library
 
+![image](https://github.com/Bridgetek/RP2040-BrtEve/assets/142303696/ffadd795-70b1-4a2a-97f4-bebe6017ff67)
 
+### Install the library
+
+![image](https://github.com/Bridgetek/RP2040-BrtEve/assets/142303696/c956cc8f-725f-4704-9db2-ac4944ad2b64)
+
+### The library will be instlled as following
+
+![image](https://github.com/Bridgetek/RP2040-BrtEve/assets/142303696/85d03bea-6645-48ae-abdb-9e33e75f3a46)
   
 ## Select an example:
 
