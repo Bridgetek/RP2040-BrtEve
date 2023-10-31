@@ -44,7 +44,7 @@ For more information about IDM2040-7A please visit us at [here](https://brtchip.
   
 ## Select an example:
 
-![image](https://github.com/Bridgetek/RP2040-BrtEve/assets/13127756/cbe331df-4472-43d6-bee6-403ce722f209)
+![image](https://github.com/Bridgetek/RP2040-BrtEve/assets/142303696/f67cb518-dd3a-45f2-9191-b9608d698a26)
 
 
 
