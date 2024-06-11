@@ -21,6 +21,10 @@
 #define BT816 16
 #define BT817 17
 #define BT818 18
+#define BT880 20
+#define BT881 21
+#define BT882 22
+#define BT883 23
 
 /* For capacitive versions */
 #define CTOUCH_MODE_COMPATIBILITY 1
@@ -47,6 +51,18 @@
 #define EVE2_ENABLE
 
 #elif (FT8XX_TYPE == FT813)
+#define EVE2_ENABLE
+
+#elif (FT8XX_TYPE == BT880)
+#define EVE2_ENABLE
+
+#elif (FT8XX_TYPE == BT881)
+#define EVE2_ENABLE
+
+#elif (FT8XX_TYPE == BT882)
+#define EVE2_ENABLE
+
+#elif (FT8XX_TYPE == BT883)
 #define EVE2_ENABLE
 
 #elif (FT8XX_TYPE == BT815)
