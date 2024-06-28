@@ -1,10 +1,12 @@
 # RP2040-BrtEve (Arduino) 
 
-This is a library to drive IDM2040-7A with Arduino-IDE.
+This is a library to drive IDM2040-7A or IDM2040-43A with Arduino-IDE.
 
 We also added some EVE example to this repo.
 
 For more information about IDM2040-7A please visit us at [here](https://brtchip.com/product/idm2040-7a/)
+For more information about IDM2040-43A please visit us at [here](https://brtchip.com/product/idm2040-43a/)
+
 
 # To run this library and EVE examples with Arduino IDE
 
@@ -23,7 +25,7 @@ For more information about IDM2040-7A please visit us at [here](https://brtchip.
 
 
 
-## Open Arduino IDE, select IDM2040-7A board
+## Open Arduino IDE, select IDM2040-7A or IDM2040-43A board
    
 ![image](https://github.com/Bridgetek/RP2040-BrtEve/assets/13127756/32f7a6c0-1e3c-43a4-90d0-d87bbbfce81b)
 
