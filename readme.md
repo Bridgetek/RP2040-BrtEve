@@ -2,7 +2,7 @@
 
 This is a library to drive IDM2040-7A or IDM2040-43A with Arduino-IDE.
 
-We also added some EVE example to this repo.
+We also added several example projects using the library to this repo.
 
 For more information about IDM2040-7A please visit us at [here](https://brtchip.com/product/idm2040-7a/)     
 For more information about IDM2040-43A please visit us at [here](https://brtchip.com/product/idm2040-43a/)    
