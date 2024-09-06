@@ -41,7 +41,7 @@ extern uint8_t left_button_state(void);
  * @brief Pin which is connected to an LED to show activity to user.
  *
  */
-const uint LED_PIN = PICO_DEFAULT_LED_PIN;
+const uint LED_PIN = 25;
 
 /**
  * @brief Pins for GPIO for the controller.
